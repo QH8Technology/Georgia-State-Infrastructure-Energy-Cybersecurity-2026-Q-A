@@ -294,3 +294,27 @@ Technology References: References to QH8 Technologies serve as examples of telem
 
 © 2026 QH8 Technologies. All Rights Reserved.
 Contact: qh8technologies.com | contact@qh8technologies.com
+
+---
+
+## 🛠 Technical Reference Library
+
+This repository covers **infrastructure monitoring and operational telemetry for Georgia-based facilities** including commercial buildings, EV charging networks, healthcare infrastructure, and data centers.
+
+Related technical repositories:
+
+• **QH8 Infrastructure Optimization Framework**  
+https://github.com/QH8Technology/qh8-infrastructure-optimization  
+Core infrastructure telemetry architecture used for electrical and thermal monitoring.
+
+• **Texas Infrastructure & ERCOT Energy Governance**  
+https://github.com/QH8Technology/texas-infrastructure-energy-cybersecurity-qa-2026  
+Advanced power-quality monitoring and high-density compute infrastructure environments.
+
+• **North Carolina Energy & Data Center Compliance**  
+https://github.com/QH8Technology/-NORTH-CAROLINA-ENERGY-DATA-CENTER-COMPLIANCE-2026  
+Infrastructure monitoring approaches for commercial buildings and electrified facilities.
+
+• **QH8 Technologies Platform**  
+https://qh8technologies.com  
+Infrastructure telemetry and operational documentation platform.
